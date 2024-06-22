@@ -1,0 +1,3 @@
+*.csv
+/nlp_word_emb/glove/glove.6B.50d.txt
+/nlp_word_emb/glove/emotions_pp.ipynb
